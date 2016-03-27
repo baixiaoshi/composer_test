@@ -1,4 +1,5 @@
 {
+	"name": "hello/hello",
 	"autoload": {
 		"psr-4": {
 			"Hello\\": ""
