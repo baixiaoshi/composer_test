@@ -1,11 +1,4 @@
 {
-    "name": "root/composer_test",
-    "authors": [
-        {
-            "name": "baixiaoshi",
-            "email": "634842632@qq.com"
-        }
-    ],
 	"autoload": {
 		"psr-4": {
 			"Hello\\": ""
