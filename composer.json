@@ -1,0 +1,12 @@
+{
+    "name": "hello/hello",
+    "description": "第一次",
+    "authors": [
+        {
+            "name": "baixiaoshi",
+            "email": "634842632@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
